@@ -5,8 +5,8 @@ This is a student project from Turing School of Software & Design as part of the
 - Merchant users can mark their items as 'fulfilled'; the last merchant to mark items in an order as 'fulfilled' will automatically set the order status to "shipped"
 - Each user role has access to some or all CRUD functionality for application models.
 
-- View it live [here](https://intense-crag-12421.herokuapp.com/)  
-- View the original assignment [here](https://github.com/turingschool-projects/little_shop_v2)
+- View it live: [https://little-coffee-shop-303.herokuapp.com/](https://little-coffee-shop-303.herokuapp.com/)  
+- View the original assignment: [https://github.com/turingschool-projects/little_shop_v2](https://github.com/turingschool-projects/little_shop_v2)
 
 
 ## Contributors
